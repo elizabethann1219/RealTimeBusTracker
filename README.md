@@ -1,9 +1,9 @@
 # RealTimeBusTracker
 This project gives a visual representation of bus stops between Harvard and MIT with satellite imagery.
 # How to View
-#Click "Code" above files
+Click "Code" above files
 
-#Select "download Zip"
+Select "download Zip"
 
 Once downloaded, extract all files
 
